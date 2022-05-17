@@ -18,7 +18,6 @@ export default {
         return {
             baseURL: "https://flynn.boolean.careers/exercises/api/array/music",
             CdArray: [],
-            isLoaded: false
         };
     },
     mounted() {
